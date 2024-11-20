@@ -1,4 +1,4 @@
-# leviathan
+# Leviathan
 Full-stack Python Developmen
 t framework.
 
